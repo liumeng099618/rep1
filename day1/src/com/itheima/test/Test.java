@@ -16,7 +16,7 @@ public class Test {
         System.out.println("hello  world");
         System.out.println("hello  world");
         System.out.println("hello  world");
-        System.out.println("hello  world");
-        System.out.println("hello  world");
+        System.out.println("hello ");
+        System.out.println("hello ");
     }
 }
